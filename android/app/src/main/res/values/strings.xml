@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutismKenXtion</string>
+    <string name="facebook_app_id">710975642759114</string>
+    <string name="fb_login_protocol_scheme">fb710975642759114</string>
+
+    <!--<string name="facebook_app_id">326690391441547</string>-->
+    <!--<string name="fb_login_protocol_scheme">fb326690391441547</string>-->
+</resources>

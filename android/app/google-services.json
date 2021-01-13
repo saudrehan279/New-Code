@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822113255720",
+    "project_id": "autismxtion-c23cf",
+    "storage_bucket": "autismxtion-c23cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822113255720:android:ddaf410d2624c0b444d01d",
+        "android_client_info": {
+          "package_name": "com.autismxtion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822113255720-0e2tmqgsug9rm1jebopo05ba73d25aj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUbGOoMo2S5a1ASgH8l8JmGtGM_mPBoBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822113255720-0e2tmqgsug9rm1jebopo05ba73d25aj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

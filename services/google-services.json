@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7484491273",
+    "firebase_url": "https://autismxtion.firebaseio.com",
+    "project_id": "autismxtion",
+    "storage_bucket": "autismxtion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7484491273:android:14c9a3ea3f83df4d8a9ad8",
+        "android_client_info": {
+          "package_name": "com.autismxtion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7484491273-lrnn5qno424f96tn07o3prmape9et27g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autismxtion",
+            "certificate_hash": "714943c671b4284eec969ae80988ed55577cc741"
+          }
+        },
+        {
+          "client_id": "7484491273-r1vmad6nsh7rkeeo76l16ca5ta83ecmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGeAAhXJKAKctEY1X4EkPgb7nYmiZfOIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7484491273-r1vmad6nsh7rkeeo76l16ca5ta83ecmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

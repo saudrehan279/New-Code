@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284545126517",
+    "project_id": "kenxtion-1795a",
+    "storage_bucket": "kenxtion-1795a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284545126517:android:44b7b3fef568f99d1f683c",
+        "android_client_info": {
+          "package_name": "com.autismkenxtion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284545126517-iq7em9k2j9cv5bcu0b9oejhos8k70nru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBoKQU8zNHam-dMXPo5-n66amisXXCto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284545126517-iq7em9k2j9cv5bcu0b9oejhos8k70nru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
