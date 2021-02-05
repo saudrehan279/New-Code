@@ -16,8 +16,8 @@ import Storage from "../LocalDB/storage";
 // const CUSTOM_SECURITY = '12';
 
 const base_url = 'http://stepup4autism.net/wp-json/downtown/app';
-const PURCHASE_CODE = '4de1719a-9dc2-41f9-a106-e7596aa427e9';
-const CUSTOM_SECURITY = 'jFgxTChLfEwFpgXX';
+const PURCHASE_CODE = '1234';
+const CUSTOM_SECURITY = '1234';
 class Api {
   static headers() {
     return {
